@@ -1,0 +1,1442 @@
+[
+    {
+        "name": "Changeling Wayfinder",
+        "win_rate": 0.5312751864375377,
+        "game_count": 215890
+    },
+    {
+        "name": "Rooftop Percher",
+        "win_rate": 0.5442873115531582,
+        "game_count": 162778
+    },
+    {
+        "name": "Adept Watershaper",
+        "win_rate": 0.5558959027641639,
+        "game_count": 40808
+    },
+    {
+        "name": "Ajani, Outland Chaperone",
+        "win_rate": 0.559200102770522,
+        "game_count": 23353
+    },
+    {
+        "name": "Appeal to Eirdu",
+        "win_rate": 0.5186862967157417,
+        "game_count": 23841
+    },
+    {
+        "name": "Bark of Doran",
+        "win_rate": 0.5033432691533071,
+        "game_count": 12413
+    },
+    {
+        "name": "Brigid, Clachan's Heart // Brigid, Doun's Mind",
+        "win_rate": 0.5615883906315555,
+        "game_count": 40519
+    },
+    {
+        "name": "Burdened Stoneback",
+        "win_rate": 0.5313259804785229,
+        "game_count": 56758
+    },
+    {
+        "name": "Champion of the Clachan",
+        "win_rate": 0.5470533389062149,
+        "game_count": 31103
+    },
+    {
+        "name": "Clachan Festival",
+        "win_rate": 0.5546227636178886,
+        "game_count": 82667
+    },
+    {
+        "name": "Crib Swap",
+        "win_rate": 0.508315289998618,
+        "game_count": 21707
+    },
+    {
+        "name": "Curious Colossus",
+        "win_rate": 0.5640676881225747,
+        "game_count": 24997
+    },
+    {
+        "name": "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",
+        "win_rate": 0.5584350443069721,
+        "game_count": 23924
+    },
+    {
+        "name": "Encumbered Reejerey",
+        "win_rate": 0.5548142065284336,
+        "game_count": 97420
+    },
+    {
+        "name": "Evershrike's Gift",
+        "win_rate": 0.5351769222787175,
+        "game_count": 38548
+    },
+    {
+        "name": "Flock Impostor",
+        "win_rate": 0.5496889286892586,
+        "game_count": 84868
+    },
+    {
+        "name": "Gallant Fowlknight",
+        "win_rate": 0.5472872096417699,
+        "game_count": 119895
+    },
+    {
+        "name": "Goldmeadow Nomad",
+        "win_rate": 0.536611566624282,
+        "game_count": 91228
+    },
+    {
+        "name": "Keep Out",
+        "win_rate": 0.5290569216830125,
+        "game_count": 125822
+    },
+    {
+        "name": "Kinbinding",
+        "win_rate": 0.5726436690874644,
+        "game_count": 50672
+    },
+    {
+        "name": "Kinsbaile Aspirant",
+        "win_rate": 0.5633956035711606,
+        "game_count": 79974
+    },
+    {
+        "name": "Kinscaer Sentry",
+        "win_rate": 0.5588542862243987,
+        "game_count": 39207
+    },
+    {
+        "name": "Kithkeeper",
+        "win_rate": 0.5179540405695765,
+        "game_count": 54918
+    },
+    {
+        "name": "Liminal Hold",
+        "win_rate": 0.5476261665849409,
+        "game_count": 250839
+    },
+    {
+        "name": "Meanders Guide",
+        "win_rate": 0.5450672107537206,
+        "game_count": 66656
+    },
+    {
+        "name": "Moonlit Lamenter",
+        "win_rate": 0.5365870467106805,
+        "game_count": 72553
+    },
+    {
+        "name": "Morningtide's Light",
+        "win_rate": 0.5324020178502135,
+        "game_count": 12885
+    },
+    {
+        "name": "Personify",
+        "win_rate": 0.5442292061771877,
+        "game_count": 59056
+    },
+    {
+        "name": "Protective Response",
+        "win_rate": 0.5561031461569096,
+        "game_count": 100440
+    },
+    {
+        "name": "Pyrrhic Strike",
+        "win_rate": 0.5594273606239205,
+        "game_count": 112322
+    },
+    {
+        "name": "Reluctant Dounguard",
+        "win_rate": 0.5260201863536489,
+        "game_count": 85107
+    },
+    {
+        "name": "Rhys, the Evermore",
+        "win_rate": 0.5251505082738428,
+        "game_count": 30397
+    },
+    {
+        "name": "Riverguard's Reflexes",
+        "win_rate": 0.5331707143365857,
+        "game_count": 56164
+    },
+    {
+        "name": "Shore Lurker",
+        "win_rate": 0.5381077405462582,
+        "game_count": 105884
+    },
+    {
+        "name": "Slumbering Walker",
+        "win_rate": 0.5606268774887642,
+        "game_count": 42943
+    },
+    {
+        "name": "Spiral into Solitude",
+        "win_rate": 0.5432055718371527,
+        "game_count": 226568
+    },
+    {
+        "name": "Sun-Dappled Celebrant",
+        "win_rate": 0.5264992026947127,
+        "game_count": 111626
+    },
+    {
+        "name": "Thoughtweft Imbuer",
+        "win_rate": 0.5611351634235692,
+        "game_count": 84076
+    },
+    {
+        "name": "Timid Shieldbearer",
+        "win_rate": 0.5521829628677888,
+        "game_count": 194575
+    },
+    {
+        "name": "Tributary Vaulter",
+        "win_rate": 0.5557374011857708,
+        "game_count": 161920
+    },
+    {
+        "name": "Wanderbrine Preacher",
+        "win_rate": 0.5538192945600353,
+        "game_count": 208494
+    },
+    {
+        "name": "Wanderbrine Trapper",
+        "win_rate": 0.5718075422626788,
+        "game_count": 115350
+    },
+    {
+        "name": "Winnowing",
+        "win_rate": 0.5265713092503654,
+        "game_count": 19156
+    },
+    {
+        "name": "Aquitect's Defenses",
+        "win_rate": 0.5231345229668815,
+        "game_count": 53686
+    },
+    {
+        "name": "Blossombind",
+        "win_rate": 0.543907109034862,
+        "game_count": 251736
+    },
+    {
+        "name": "Champions of the Shoal",
+        "win_rate": 0.5734767025089605,
+        "game_count": 43803
+    },
+    {
+        "name": "Disruptor of Currents",
+        "win_rate": 0.5671524066807327,
+        "game_count": 50713
+    },
+    {
+        "name": "Flitterwing Nuisance",
+        "win_rate": 0.5560369474378711,
+        "game_count": 45470
+    },
+    {
+        "name": "Glamer Gifter",
+        "win_rate": 0.5479837597816889,
+        "game_count": 105171
+    },
+    {
+        "name": "Glamermite",
+        "win_rate": 0.5185206742410132,
+        "game_count": 85904
+    },
+    {
+        "name": "Glen Elendra Guardian",
+        "win_rate": 0.5450502086294648,
+        "game_count": 43618
+    },
+    {
+        "name": "Glen Elendra's Answer",
+        "win_rate": 0.5578434681969426,
+        "game_count": 20737
+    },
+    {
+        "name": "Gravelgill Scoundrel",
+        "win_rate": 0.5559239004201947,
+        "game_count": 189436
+    },
+    {
+        "name": "Harmonized Crescendo",
+        "win_rate": 0.5312992959101227,
+        "game_count": 25991
+    },
+    {
+        "name": "Illusion Spinners",
+        "win_rate": 0.49964284371592915,
+        "game_count": 26599
+    },
+    {
+        "name": "Kulrath Mystic",
+        "win_rate": 0.5333697973093793,
+        "game_count": 95071
+    },
+    {
+        "name": "Loch Mare",
+        "win_rate": 0.5692229815236649,
+        "game_count": 27657
+    },
+    {
+        "name": "Lofty Dreams",
+        "win_rate": 0.54065956878911,
+        "game_count": 67438
+    },
+    {
+        "name": "Mirrorform",
+        "win_rate": 0.5356433458397705,
+        "game_count": 18124
+    },
+    {
+        "name": "Noggle the Mind",
+        "win_rate": 0.538229587288269,
+        "game_count": 76276
+    },
+    {
+        "name": "Oko, Lorwyn Liege // Oko, Shadowmoor Scion",
+        "win_rate": 0.5244742229666853,
+        "game_count": 21492
+    },
+    {
+        "name": "Omni-Changeling",
+        "win_rate": 0.5497441728254691,
+        "game_count": 112576
+    },
+    {
+        "name": "Pestered Wellguard",
+        "win_rate": 0.5443767983501488,
+        "game_count": 80977
+    },
+    {
+        "name": "Rime Chill",
+        "win_rate": 0.513899857842363,
+        "game_count": 37986
+    },
+    {
+        "name": "Rimefire Torque",
+        "win_rate": 0.4453517587939699,
+        "game_count": 1592
+    },
+    {
+        "name": "Rimekin Recluse",
+        "win_rate": 0.566918514436533,
+        "game_count": 137914
+    },
+    {
+        "name": "Run Away Together",
+        "win_rate": 0.5178458954440479,
+        "game_count": 57156
+    },
+    {
+        "name": "Shinestriker",
+        "win_rate": 0.5524720893141946,
+        "game_count": 119130
+    },
+    {
+        "name": "Silvergill Mentor",
+        "win_rate": 0.5733443169409376,
+        "game_count": 104398
+    },
+    {
+        "name": "Silvergill Peddler",
+        "win_rate": 0.5509269752051131,
+        "game_count": 154427
+    },
+    {
+        "name": "Spell Snare",
+        "win_rate": 0.48565784953624186,
+        "game_count": 11644
+    },
+    {
+        "name": "Stratosoarer",
+        "win_rate": 0.5333794582627045,
+        "game_count": 144535
+    },
+    {
+        "name": "Summit Sentinel",
+        "win_rate": 0.5330042343433186,
+        "game_count": 139573
+    },
+    {
+        "name": "Sunderflock",
+        "win_rate": 0.57768771811325,
+        "game_count": 44415
+    },
+    {
+        "name": "Swat Away",
+        "win_rate": 0.5401184983356253,
+        "game_count": 77807
+    },
+    {
+        "name": "Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",
+        "win_rate": 0.5600973445609804,
+        "game_count": 46433
+    },
+    {
+        "name": "Tanufel Rimespeaker",
+        "win_rate": 0.5448403937806161,
+        "game_count": 105541
+    },
+    {
+        "name": "Temporal Cleansing",
+        "win_rate": 0.5528509871189371,
+        "game_count": 217451
+    },
+    {
+        "name": "Thirst for Identity",
+        "win_rate": 0.5266059905614947,
+        "game_count": 41532
+    },
+    {
+        "name": "Unexpected Assistance",
+        "win_rate": 0.5483182875909759,
+        "game_count": 242372
+    },
+    {
+        "name": "Unwelcome Sprite",
+        "win_rate": 0.5471423485308593,
+        "game_count": 95498
+    },
+    {
+        "name": "Wanderwine Distracter",
+        "win_rate": 0.5207344491631276,
+        "game_count": 48036
+    },
+    {
+        "name": "Wanderwine Farewell",
+        "win_rate": 0.5596834859129941,
+        "game_count": 84546
+    },
+    {
+        "name": "Wild Unraveling",
+        "win_rate": 0.5222559966292473,
+        "game_count": 66454
+    },
+    {
+        "name": "Auntie's Sentence",
+        "win_rate": 0.5318864240751338,
+        "game_count": 118828
+    },
+    {
+        "name": "Barbed Bloodletter",
+        "win_rate": 0.5240238524983436,
+        "game_count": 43769
+    },
+    {
+        "name": "Bile-Vial Boggart",
+        "win_rate": 0.517343181130619,
+        "game_count": 95859
+    },
+    {
+        "name": "Bitterbloom Bearer",
+        "win_rate": 0.5412629631432884,
+        "game_count": 20539
+    },
+    {
+        "name": "Blight Rot",
+        "win_rate": 0.5408229230366035,
+        "game_count": 228940
+    },
+    {
+        "name": "Blighted Blackthorn",
+        "win_rate": 0.5019027294840992,
+        "game_count": 67009
+    },
+    {
+        "name": "Bloodline Bidding",
+        "win_rate": 0.5579677410783089,
+        "game_count": 37633
+    },
+    {
+        "name": "Boggart Mischief",
+        "win_rate": 0.5469781197798286,
+        "game_count": 73034
+    },
+    {
+        "name": "Boggart Prankster",
+        "win_rate": 0.5270908972728032,
+        "game_count": 107693
+    },
+    {
+        "name": "Bogslither's Embrace",
+        "win_rate": 0.5443104352385947,
+        "game_count": 246003
+    },
+    {
+        "name": "Champion of the Weird",
+        "win_rate": 0.5498467919155653,
+        "game_count": 32309
+    },
+    {
+        "name": "Creakwood Safewright",
+        "win_rate": 0.5628751028200624,
+        "game_count": 98473
+    },
+    {
+        "name": "Darkness Descends",
+        "win_rate": 0.4880761904761905,
+        "game_count": 13125
+    },
+    {
+        "name": "Dawnhand Dissident",
+        "win_rate": 0.5554390334491272,
+        "game_count": 45771
+    },
+    {
+        "name": "Dawnhand Eulogist",
+        "win_rate": 0.5702031487849659,
+        "game_count": 235837
+    },
+    {
+        "name": "Dose of Dawnglow",
+        "win_rate": 0.5134721095791656,
+        "game_count": 33291
+    },
+    {
+        "name": "Dream Seizer",
+        "win_rate": 0.5044406636802098,
+        "game_count": 64067
+    },
+    {
+        "name": "Gloom Ripper",
+        "win_rate": 0.5943363893411019,
+        "game_count": 46684
+    },
+    {
+        "name": "Gnarlbark Elm",
+        "win_rate": 0.5259007042663407,
+        "game_count": 68724
+    },
+    {
+        "name": "Graveshifter",
+        "win_rate": 0.5391607238550641,
+        "game_count": 97036
+    },
+    {
+        "name": "Grub, storied matriarch",
+        "win_rate": 0.5436331854242302,
+        "game_count": 29748
+    },
+    {
+        "name": "Gutsplitter Gang",
+        "win_rate": 0.5172942878435842,
+        "game_count": 45622
+    },
+    {
+        "name": "Heirloom Auntie",
+        "win_rate": 0.5013135570029008,
+        "game_count": 73084
+    },
+    {
+        "name": "Iron-Shield Elf",
+        "win_rate": 0.5645252596236433,
+        "game_count": 102456
+    },
+    {
+        "name": "Moonglove Extractor",
+        "win_rate": 0.5309865930434419,
+        "game_count": 95622
+    },
+    {
+        "name": "Moonshadow",
+        "win_rate": 0.5422419965224506,
+        "game_count": 19554
+    },
+    {
+        "name": "Mornsong Aria",
+        "win_rate": 0.49495875343721357,
+        "game_count": 1091
+    },
+    {
+        "name": "Mudbutton Cursetosser",
+        "win_rate": 0.5485502309031721,
+        "game_count": 66045
+    },
+    {
+        "name": "Nameless Inversion",
+        "win_rate": 0.5485498957001548,
+        "game_count": 104027
+    },
+    {
+        "name": "Nightmare Sower",
+        "win_rate": 0.4970765719288372,
+        "game_count": 31983
+    },
+    {
+        "name": "Perfect Intimidation",
+        "win_rate": 0.4770487863494352,
+        "game_count": 8322
+    },
+    {
+        "name": "Requiting Hex",
+        "win_rate": 0.5217627347099238,
+        "game_count": 53417
+    },
+    {
+        "name": "Retched Wretch",
+        "win_rate": 0.528285691472373,
+        "game_count": 50096
+    },
+    {
+        "name": "Scarblade Scout",
+        "win_rate": 0.5645596602421747,
+        "game_count": 246764
+    },
+    {
+        "name": "Scarblade's Malice",
+        "win_rate": 0.5321463678635726,
+        "game_count": 90539
+    },
+    {
+        "name": "Shimmercreep",
+        "win_rate": 0.5184446498354169,
+        "game_count": 61671
+    },
+    {
+        "name": "Taster of Wares",
+        "win_rate": 0.5582576468165907,
+        "game_count": 43711
+    },
+    {
+        "name": "Twilight Diviner",
+        "win_rate": 0.5448485819580196,
+        "game_count": 31205
+    },
+    {
+        "name": "Unbury",
+        "win_rate": 0.5427187055476529,
+        "game_count": 89984
+    },
+    {
+        "name": "Ashling, Rekindled // Ashling, Rimebound",
+        "win_rate": 0.5560709349450652,
+        "game_count": 42687
+    },
+    {
+        "name": "Boldwyr Aggressor",
+        "win_rate": 0.4985982316152685,
+        "game_count": 23185
+    },
+    {
+        "name": "Boneclub Berserker",
+        "win_rate": 0.5098152424942263,
+        "game_count": 62352
+    },
+    {
+        "name": "Boulder Dash",
+        "win_rate": 0.5357207050041763,
+        "game_count": 94581
+    },
+    {
+        "name": "Brambleback Brute",
+        "win_rate": 0.5140484279782128,
+        "game_count": 74172
+    },
+    {
+        "name": "Burning Curiosity",
+        "win_rate": 0.516741733878007,
+        "game_count": 85923
+    },
+    {
+        "name": "Champion of the Path",
+        "win_rate": 0.5268559801310632,
+        "game_count": 33419
+    },
+    {
+        "name": "Cinder Strike",
+        "win_rate": 0.5414258793969849,
+        "game_count": 286560
+    },
+    {
+        "name": "Collective Inferno",
+        "win_rate": 0.4968967895180446,
+        "game_count": 13051
+    },
+    {
+        "name": "Elder Auntie",
+        "win_rate": 0.5205512041578215,
+        "game_count": 109288
+    },
+    {
+        "name": "End-Blaze Epiphany",
+        "win_rate": 0.5579774844720496,
+        "game_count": 51520
+    },
+    {
+        "name": "Enraged Flamecaster",
+        "win_rate": 0.522416819676762,
+        "game_count": 99122
+    },
+    {
+        "name": "Explosive Prodigy",
+        "win_rate": 0.55160303045507,
+        "game_count": 119586
+    },
+    {
+        "name": "Feed the Flames",
+        "win_rate": 0.5308370536213037,
+        "game_count": 223773
+    },
+    {
+        "name": "Flame-Chain Mauler",
+        "win_rate": 0.5318518621302104,
+        "game_count": 144136
+    },
+    {
+        "name": "Flamebraider",
+        "win_rate": 0.556994591177297,
+        "game_count": 113888
+    },
+    {
+        "name": "Flamekin Gildweaver",
+        "win_rate": 0.5467748707041721,
+        "game_count": 216751
+    },
+    {
+        "name": "Giantfall",
+        "win_rate": 0.5229825358696358,
+        "game_count": 61612
+    },
+    {
+        "name": "Goatnap",
+        "win_rate": 0.4813651591289782,
+        "game_count": 4776
+    },
+    {
+        "name": "Goliath Daydreamer",
+        "win_rate": 0.531990641847218,
+        "game_count": 39324
+    },
+    {
+        "name": "Gristle Glutton",
+        "win_rate": 0.5338632510016956,
+        "game_count": 185186
+    },
+    {
+        "name": "Hexing Squelcher",
+        "win_rate": 0.5114414414414414,
+        "game_count": 22200
+    },
+    {
+        "name": "Impolite Entrance",
+        "win_rate": 0.4628564722450417,
+        "game_count": 8521
+    },
+    {
+        "name": "Kindle the Inner Flame",
+        "win_rate": 0.5379121128293501,
+        "game_count": 44102
+    },
+    {
+        "name": "Kulrath Zealot",
+        "win_rate": 0.5477128544894628,
+        "game_count": 248738
+    },
+    {
+        "name": "Lasting Tarfire",
+        "win_rate": 0.48890728476821194,
+        "game_count": 30200
+    },
+    {
+        "name": "Lavaleaper",
+        "win_rate": 0.48765770707624795,
+        "game_count": 3646
+    },
+    {
+        "name": "Meek Attack",
+        "win_rate": null,
+        "game_count": 175
+    },
+    {
+        "name": "Reckless Ransacking",
+        "win_rate": 0.4959559880116599,
+        "game_count": 24357
+    },
+    {
+        "name": "Scuzzback Scrounger",
+        "win_rate": 0.5356375550542486,
+        "game_count": 37236
+    },
+    {
+        "name": "Sear",
+        "win_rate": 0.5425784485138493,
+        "game_count": 108670
+    },
+    {
+        "name": "Sizzling Changeling",
+        "win_rate": 0.5358521247800089,
+        "game_count": 97163
+    },
+    {
+        "name": "Soul Immolation",
+        "win_rate": 0.5651323601313124,
+        "game_count": 28634
+    },
+    {
+        "name": "Soulbright Seeker",
+        "win_rate": 0.5441031274770202,
+        "game_count": 71911
+    },
+    {
+        "name": "Sourbread Auntie",
+        "win_rate": 0.5423318619968923,
+        "game_count": 72723
+    },
+    {
+        "name": "Spinerock Tyrant",
+        "win_rate": 0.5555555555555556,
+        "game_count": 24930
+    },
+    {
+        "name": "Squawkroaster",
+        "win_rate": 0.5089079950363411,
+        "game_count": 45128
+    },
+    {
+        "name": "Sting-Slinger",
+        "win_rate": 0.524001391915899,
+        "game_count": 54601
+    },
+    {
+        "name": "Tweeze",
+        "win_rate": 0.5349921300588628,
+        "game_count": 231895
+    },
+    {
+        "name": "Warren Torchmaster",
+        "win_rate": 0.5190444370197127,
+        "game_count": 47888
+    },
+    {
+        "name": "Assert Perfection",
+        "win_rate": 0.5604819437068508,
+        "game_count": 301280
+    },
+    {
+        "name": "Aurora Awakener",
+        "win_rate": 0.5475733175740563,
+        "game_count": 27074
+    },
+    {
+        "name": "Bloom Tender",
+        "win_rate": 0.5242868157286045,
+        "game_count": 18158
+    },
+    {
+        "name": "Blossoming Defense",
+        "win_rate": 0.5502018933867191,
+        "game_count": 88413
+    },
+    {
+        "name": "Bristlebane Battler",
+        "win_rate": 0.5622145717698307,
+        "game_count": 42699
+    },
+    {
+        "name": "Bristlebane Outrider",
+        "win_rate": 0.5524733691402495,
+        "game_count": 78011
+    },
+    {
+        "name": "Celestial Reunion",
+        "win_rate": 0.5326411134430575,
+        "game_count": 9053
+    },
+    {
+        "name": "Champions of the Perfect",
+        "win_rate": 0.5667502166834547,
+        "game_count": 42689
+    },
+    {
+        "name": "Chomping Changeling",
+        "win_rate": 0.5141937839441376,
+        "game_count": 43822
+    },
+    {
+        "name": "Crossroads Watcher",
+        "win_rate": 0.5506456943509395,
+        "game_count": 163390
+    },
+    {
+        "name": "Dawn's Light Archer",
+        "win_rate": 0.5531663306511213,
+        "game_count": 169139
+    },
+    {
+        "name": "Dundoolin Weaver",
+        "win_rate": 0.5536823754149743,
+        "game_count": 107838
+    },
+    {
+        "name": "Formidable Speaker",
+        "win_rate": 0.5544952036288824,
+        "game_count": 40343
+    },
+    {
+        "name": "Gilt-Leaf's Embrace",
+        "win_rate": 0.5464753259700396,
+        "game_count": 114351
+    },
+    {
+        "name": "Great Forest Druid",
+        "win_rate": 0.5255493233160089,
+        "game_count": 174897
+    },
+    {
+        "name": "Luminollusk",
+        "win_rate": 0.5028197198471894,
+        "game_count": 38479
+    },
+    {
+        "name": "Lys Alana Dignitary",
+        "win_rate": 0.5669577583271577,
+        "game_count": 99854
+    },
+    {
+        "name": "Lys Alana Informant",
+        "win_rate": 0.5624626887946989,
+        "game_count": 268016
+    },
+    {
+        "name": "Midnight Tilling",
+        "win_rate": 0.5608112015730525,
+        "game_count": 155621
+    },
+    {
+        "name": "Mistmeadow Council",
+        "win_rate": 0.5563358584943274,
+        "game_count": 220712
+    },
+    {
+        "name": "Moon-Vigil Adherents",
+        "win_rate": 0.568905168905169,
+        "game_count": 110565
+    },
+    {
+        "name": "Morcant's Eyes",
+        "win_rate": 0.5818218871000611,
+        "game_count": 107954
+    },
+    {
+        "name": "Mutable Explorer",
+        "win_rate": 0.537996185480987,
+        "game_count": 33556
+    },
+    {
+        "name": "Pitiless Fists",
+        "win_rate": 0.5624674829176928,
+        "game_count": 115324
+    },
+    {
+        "name": "Prismabasher",
+        "win_rate": 0.5392526643568265,
+        "game_count": 91204
+    },
+    {
+        "name": "Prismatic Undercurrents",
+        "win_rate": 0.4806084047668827,
+        "game_count": 19132
+    },
+    {
+        "name": "Pummeler for Hire",
+        "win_rate": 0.5392156862745098,
+        "game_count": 79254
+    },
+    {
+        "name": "Safewright Cavalry",
+        "win_rate": 0.5579859098811939,
+        "game_count": 220864
+    },
+    {
+        "name": "Sapling Nursery",
+        "win_rate": 0.5369089667863821,
+        "game_count": 33691
+    },
+    {
+        "name": "Selfless Safewright",
+        "win_rate": 0.5488503571338431,
+        "game_count": 39621
+    },
+    {
+        "name": "Shimmerwilds Growth",
+        "win_rate": 0.5001166069497742,
+        "game_count": 47167
+    },
+    {
+        "name": "Spry and Mighty",
+        "win_rate": 0.5291760364412155,
+        "game_count": 34686
+    },
+    {
+        "name": "Surly Farrier",
+        "win_rate": 0.5439383823296601,
+        "game_count": 145283
+    },
+    {
+        "name": "Tend the Sprigs",
+        "win_rate": 0.48946001192402694,
+        "game_count": 46964
+    },
+    {
+        "name": "Thoughtweft Charge",
+        "win_rate": 0.5413072329130724,
+        "game_count": 60280
+    },
+    {
+        "name": "Trystan, Callous Cultivator // Trystan, Penitent Culler",
+        "win_rate": 0.5724357041812574,
+        "game_count": 43121
+    },
+    {
+        "name": "Unforgiving Aim",
+        "win_rate": 0.5177722866375214,
+        "game_count": 47349
+    },
+    {
+        "name": "Vinebred Brawler",
+        "win_rate": 0.5560950086393615,
+        "game_count": 82182
+    },
+    {
+        "name": "Virulent Emissary",
+        "win_rate": 0.56525533080215,
+        "game_count": 107723
+    },
+    {
+        "name": "Wildvine Pummeler",
+        "win_rate": 0.5034792782806823,
+        "game_count": 113673
+    },
+    {
+        "name": "Abigale, Eloquent First-Year",
+        "win_rate": 0.5543794423182067,
+        "game_count": 45725
+    },
+    {
+        "name": "Ashling's Command",
+        "win_rate": 0.5859780244296949,
+        "game_count": 53787
+    },
+    {
+        "name": "Boggart Cursecrafter",
+        "win_rate": 0.5450921707808031,
+        "game_count": 75512
+    },
+    {
+        "name": "Bre of Clan Stoutarm",
+        "win_rate": 0.522407774318332,
+        "game_count": 31797
+    },
+    {
+        "name": "Brigid's Command",
+        "win_rate": 0.5646159658248816,
+        "game_count": 34411
+    },
+    {
+        "name": "Catharsis",
+        "win_rate": 0.5175080944957429,
+        "game_count": 16678
+    },
+    {
+        "name": "Chaos Spewer",
+        "win_rate": 0.5067463880963478,
+        "game_count": 87973
+    },
+    {
+        "name": "Chitinous Graspling",
+        "win_rate": 0.5152578314914745,
+        "game_count": 116006
+    },
+    {
+        "name": "Deceit",
+        "win_rate": 0.5480465058954028,
+        "game_count": 24341
+    },
+    {
+        "name": "Deepchannel Duelist",
+        "win_rate": 0.5871979575088903,
+        "game_count": 109670
+    },
+    {
+        "name": "Deepway Navigator",
+        "win_rate": 0.5546132773794953,
+        "game_count": 34314
+    },
+    {
+        "name": "Doran, Besieged by Time",
+        "win_rate": 0.5255691313551454,
+        "game_count": 26927
+    },
+    {
+        "name": "Dream Harvest",
+        "win_rate": 0.49862574438845625,
+        "game_count": 17464
+    },
+    {
+        "name": "Eclipsed Boggart",
+        "win_rate": 0.5579191131808058,
+        "game_count": 79024
+    },
+    {
+        "name": "Eclipsed Elf",
+        "win_rate": 0.5869272943148485,
+        "game_count": 114544
+    },
+    {
+        "name": "Eclipsed Flamekin",
+        "win_rate": 0.5647738466932697,
+        "game_count": 119786
+    },
+    {
+        "name": "Eclipsed Kithkin",
+        "win_rate": 0.5813281718232641,
+        "game_count": 101779
+    },
+    {
+        "name": "Eclipsed Merrow",
+        "win_rate": 0.5830624434713304,
+        "game_count": 111669
+    },
+    {
+        "name": "Emptiness",
+        "win_rate": 0.5362820571220335,
+        "game_count": 21953
+    },
+    {
+        "name": "Feisty Spikeling",
+        "win_rate": 0.5183149108220027,
+        "game_count": 153345
+    },
+    {
+        "name": "Figure of Fable",
+        "win_rate": 0.5782389449185416,
+        "game_count": 51560
+    },
+    {
+        "name": "Flaring Cinder",
+        "win_rate": 0.5421611121031585,
+        "game_count": 184803
+    },
+    {
+        "name": "Gangly Stompling",
+        "win_rate": 0.5361012556034758,
+        "game_count": 188276
+    },
+    {
+        "name": "Glister Bairn",
+        "win_rate": 0.5064327728472554,
+        "game_count": 48113
+    },
+    {
+        "name": "Grub's Command",
+        "win_rate": 0.565742542153048,
+        "game_count": 37008
+    },
+    {
+        "name": "High Perfect Morcant",
+        "win_rate": 0.5704520021408067,
+        "game_count": 41106
+    },
+    {
+        "name": "Hovel Hurler",
+        "win_rate": 0.5193999183753888,
+        "game_count": 71057
+    },
+    {
+        "name": "Kirol, Attentive First-Year",
+        "win_rate": 0.5246507582758059,
+        "game_count": 36794
+    },
+    {
+        "name": "Lluwen, Imperfect Naturalist",
+        "win_rate": 0.555159312868564,
+        "game_count": 42903
+    },
+    {
+        "name": "Maralen, Fae Ascendant",
+        "win_rate": 0.5507637710229902,
+        "game_count": 38886
+    },
+    {
+        "name": "Merrow Skyswimmer",
+        "win_rate": 0.5586087081116902,
+        "game_count": 279165
+    },
+    {
+        "name": "Mischievous Sneakling",
+        "win_rate": 0.5285815422596573,
+        "game_count": 220352
+    },
+    {
+        "name": "Morcant's Loyalist",
+        "win_rate": 0.5793572175444389,
+        "game_count": 109026
+    },
+    {
+        "name": "Noggle Robber",
+        "win_rate": 0.5467914687529105,
+        "game_count": 107370
+    },
+    {
+        "name": "Prideful Feastling",
+        "win_rate": 0.5300596703255089,
+        "game_count": 184849
+    },
+    {
+        "name": "Raiding Schemes",
+        "win_rate": 0.42813765182186236,
+        "game_count": 988
+    },
+    {
+        "name": "Reaping Willow",
+        "win_rate": 0.5402928485863485,
+        "game_count": 85983
+    },
+    {
+        "name": "Sanar, Innovative First-Year",
+        "win_rate": 0.5605846810666087,
+        "game_count": 55278
+    },
+    {
+        "name": "Shadow Urchin",
+        "win_rate": 0.5252082290961533,
+        "game_count": 33977
+    },
+    {
+        "name": "Stoic Grove-Guide",
+        "win_rate": 0.5465551484324304,
+        "game_count": 152561
+    },
+    {
+        "name": "Sygg's Command",
+        "win_rate": 0.5618790019871936,
+        "game_count": 36232
+    },
+    {
+        "name": "Tam, Mindful First-Year",
+        "win_rate": 0.5311773147919038,
+        "game_count": 40414
+    },
+    {
+        "name": "Thoughtweft Lieutenant",
+        "win_rate": 0.5645432977461448,
+        "game_count": 84300
+    },
+    {
+        "name": "Trystan's Command",
+        "win_rate": 0.576419571264932,
+        "game_count": 48888
+    },
+    {
+        "name": "Twinflame Travelers",
+        "win_rate": 0.5490465488306361,
+        "game_count": 101893
+    },
+    {
+        "name": "Vibrance",
+        "win_rate": 0.5619003583400763,
+        "game_count": 25953
+    },
+    {
+        "name": "Voracious Tome-Skimmer",
+        "win_rate": 0.5085409574307836,
+        "game_count": 33193
+    },
+    {
+        "name": "Wary Farmer",
+        "win_rate": 0.5473247508660879,
+        "game_count": 187048
+    },
+    {
+        "name": "Wistfulness",
+        "win_rate": 0.5550048809791995,
+        "game_count": 26634
+    },
+    {
+        "name": "Chronicle of Victory",
+        "win_rate": 0.5672940220702728,
+        "game_count": 29542
+    },
+    {
+        "name": "Dawn-Blessed Pennant",
+        "win_rate": 0.5402746738486811,
+        "game_count": 52353
+    },
+    {
+        "name": "Firdoch Core",
+        "win_rate": 0.5018251650584052,
+        "game_count": 63008
+    },
+    {
+        "name": "Foraging Wickermaw",
+        "win_rate": 0.5223738394927114,
+        "game_count": 188926
+    },
+    {
+        "name": "Gathering Stone",
+        "win_rate": 0.5617828532203839,
+        "game_count": 128199
+    },
+    {
+        "name": "Mirrormind Crown",
+        "win_rate": 0.43648573027420257,
+        "game_count": 1787
+    },
+    {
+        "name": "Puca's Eye",
+        "win_rate": 0.5187072985576402,
+        "game_count": 27663
+    },
+    {
+        "name": "Springleaf Drum",
+        "win_rate": 0.5033075033075033,
+        "game_count": 21164
+    },
+    {
+        "name": "Stalactite Dagger",
+        "win_rate": 0.5170357751277683,
+        "game_count": 54004
+    },
+    {
+        "name": "Blood Crypt",
+        "win_rate": 0.5243651666586964,
+        "game_count": 20911
+    },
+    {
+        "name": "Eclipsed Realms",
+        "win_rate": 0.5378043113001824,
+        "game_count": 55946
+    },
+    {
+        "name": "Evolving Wilds",
+        "win_rate": 0.5427940016831335,
+        "game_count": 301818
+    },
+    {
+        "name": "Hallowed Fountain",
+        "win_rate": 0.5333669198573865,
+        "game_count": 25804
+    },
+    {
+        "name": "Overgrown Tomb",
+        "win_rate": 0.5421470663592108,
+        "game_count": 27321
+    },
+    {
+        "name": "Steam Vents",
+        "win_rate": 0.5309117865085249,
+        "game_count": 26980
+    },
+    {
+        "name": "Temple Garden",
+        "win_rate": 0.5311151154506978,
+        "game_count": 23863
+    },
+    {
+        "name": "Idyllic Tutor",
+        "win_rate": null,
+        "game_count": 85
+    },
+    {
+        "name": "Kinsbaile Cavalier",
+        "win_rate": 0.5357833655705996,
+        "game_count": 1034
+    },
+    {
+        "name": "Mistbind Clique",
+        "win_rate": 0.5088062622309197,
+        "game_count": 1022
+    },
+    {
+        "name": "Wanderwine Prophets",
+        "win_rate": 0.515818431911967,
+        "game_count": 727
+    },
+    {
+        "name": "Bitterblossom",
+        "win_rate": 0.5266187050359712,
+        "game_count": 2085
+    },
+    {
+        "name": "Faerie Macabre",
+        "win_rate": null,
+        "game_count": 133
+    },
+    {
+        "name": "Goblin Chieftain",
+        "win_rate": 0.5355450236966824,
+        "game_count": 1266
+    },
+    {
+        "name": "Goblin Sharpshooter",
+        "win_rate": 0.5470871660096365,
+        "game_count": 2283
+    },
+    {
+        "name": "Heat Shimmer",
+        "win_rate": null,
+        "game_count": 282
+    },
+    {
+        "name": "Devoted Druid",
+        "win_rate": 0.5137724550898204,
+        "game_count": 1670
+    },
+    {
+        "name": "Helix Pinnacle",
+        "win_rate": null,
+        "game_count": 3
+    },
+    {
+        "name": "Leaf-Crowned Visionary",
+        "win_rate": 0.5671641791044776,
+        "game_count": 2211
+    },
+    {
+        "name": "Regal Force",
+        "win_rate": 0.5205479452054794,
+        "game_count": 1460
+    },
+    {
+        "name": "Manamorphose",
+        "win_rate": 0.5200823892893924,
+        "game_count": 971
+    },
+    {
+        "name": "Risen Reef",
+        "win_rate": 0.5670611439842209,
+        "game_count": 2028
+    },
+    {
+        "name": "Slippery Bogle",
+        "win_rate": null,
+        "game_count": 228
+    },
+    {
+        "name": "Dolmen Gate",
+        "win_rate": 0.522038567493113,
+        "game_count": 726
+    },
+    {
+        "name": "Door of Destinies",
+        "win_rate": 0.5155753337571519,
+        "game_count": 1573
+    },
+    {
+        "name": "Painter's Servant",
+        "win_rate": null,
+        "game_count": 326
+    },
+    {
+        "name": "Thousand-Year Elixir",
+        "win_rate": null,
+        "game_count": 21
+    }
+]
