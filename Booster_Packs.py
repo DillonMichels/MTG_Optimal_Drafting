@@ -1,8 +1,13 @@
 import json
 import random
+from typing import List
+
 import requests
 from fpdf import FPDF
 from io import BytesIO
+
+from Card import Card
+
 
 class LorwynEclipsedPackGenerator:
     def __init__(self, dataset_path):
@@ -33,15 +38,15 @@ class LorwynEclipsedPackGenerator:
             'G': [c for c in self.commons if c.get('colors') == ['G']]
         }
 
-    def generate_pack(self):
-        pack = []
+    def generate_pack(self) -> List[Card]:
+        pack_data = []
         chosen_ids = set()
 
         def add_to_pack(pool):
             available = [c for c in pool if c['id'] not in chosen_ids]
             if not available: return None
             card = random.choice(available)
-            pack.append(card)
+            pack_data.append(card)
             chosen_ids.add(card['id'])
             return card
 
@@ -78,7 +83,11 @@ class LorwynEclipsedPackGenerator:
                     'rare': self.rares, 'mythic': self.mythics}[rarity]
             add_to_pack(pool)
 
-        return pack
+        cards = []
+        for card_data in pack_data:
+            cards.append(Card(card_data))
+
+        return cards
 
 class PDFPackVisualizer:
     @staticmethod
