@@ -116,3 +116,30 @@ class Deck:
         win_rate_sum = self.average_win_rate * (len(self.cards) - 1)
         win_rate_sum += card.win_rate
         self.average_win_rate = win_rate_sum / len(self.cards)
+
+    def calculate_playability(self):
+        """The Evaluator: Turns the deck state into a single multi-objective score."""
+        if not self.cards:
+            return 0.5
+
+        # 1. Quality (Average of top 23 cards to ignore 'sideboard chaff')
+        top_rates = sorted([c.win_rate for c in self.cards], reverse=True)[:23]
+        quality = sum(top_rates) / len(top_rates)
+
+        # 2. Coherency (Percentage of cards in the two main colors)
+        color_counts = sorted(self.color_frequency.values(), reverse=True)
+        coherency = (color_counts[0] + color_counts[1]) / len(self.cards)
+
+        # 3. Curve Fitness (Penalty based on Mean Squared Error)
+        # Ideal counts for CMCs 1, 2, 3, 4, 5+ in a standard 23-card deck
+        ideal = [2, 4, 6, 4, 2] 
+        actual = [self.cost_frequency[i] for i in range(1, 6)]
+        
+        # Calculate MSE: sum of (actual - ideal)^2
+        curve_penalty = sum((a - i)**2 for a, i in zip(actual, ideal))
+
+        # Weights: Quality is King, but Coherency and Curve are the tie-breakers
+        # w3 is very small because MSE grows quickly
+        w1, w2, w3 = 1.0, 0.2, 0.005
+        
+        return (w1 * quality) + (w2 * coherency) - (w3 * curve_penalty)
